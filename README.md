@@ -1,4 +1,4 @@
-Spring Data Solr
+wlq Spring Data Solr
 ======================
 
 The primary goal of the [Spring Data](http://projects.spring.io/spring-data) project is to make it easier to build Spring-powered applications that use new data access technologies such as non-relational databases, map-reduce frameworks, and cloud based data services.
